@@ -21,7 +21,7 @@
     console.log(funcionFlecha("hola ", "mundo!" )) // "hola mundo!"
 ```
 
-## 2. Control de Versionamiento (Git) [cite: 8]
+## 2. Control de Versionamiento (Git) 
 
 * **¿Por qué es importante Git?**: Es como una "máquina del tiempo" para el código. Permite que varias personas trabajen en el mismo proyecto sin borrarse el trabajo entre sí, guardando un historial de cada cambio por si necesitamos regresar a una versión anterior.
 * **Operaciones que realizo**:
